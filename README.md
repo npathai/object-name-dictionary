@@ -13,4 +13,6 @@ A dictionary to name objects
 - Handler
 - Service
 - Broker
-
+- Aggregator
+- Validator
+- Mapper
