@@ -16,3 +16,7 @@ A dictionary to name objects
 - Aggregator
 - Validator
 - Mapper
+- Extractor
+- Provider
+- Supplier
+- Consumer
